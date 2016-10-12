@@ -21,7 +21,8 @@ There are C++ bindings, which are not tested yet, though.
 
 To compile, edit Makefile and run. The only dependency is FFTW3.
 
-
+The test example will produce a file "test_result.txt" whose columns
+are input k, P(k), output r, xi(r) and retransformed k, P(k).
 
 
 

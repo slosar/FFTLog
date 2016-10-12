@@ -3,7 +3,7 @@
 
 /****************************************************************
 
-This is famous FFTLog. 
+This is the famous FFTLog. 
 
 First imlplemented by the living legend Andrew Hamilton:
 
