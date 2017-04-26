@@ -1,14 +1,14 @@
 # FFTLog
-C and C++ implementations of FFTLog algorithm
+C and C++ implementations of the FFTLog algorithm.
 
-This is famous FFTLog. 
+This is the famous FFTLog. 
 
-First imlplemented by the living legend Andrew Hamilton:
+First implemented by the living legend Andrew Hamilton:
 
 http://casa.colorado.edu/~ajsh/FFTLog/
 
 This version is a C version that was adapted from the C++ version found
-in Copter JWG Carlson, another big loss for the cosmology community.
+in Copter by JWG Carlson, another big loss for the cosmology community.
 
 https://github.com/jwgcarlson/Copter
 
